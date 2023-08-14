@@ -1,6 +1,6 @@
-# Fire Detection using OpenCV and Python
+# Fire Detection using OpenCV and tkinter
 
-This Python script uses OpenCV to detect fire in a video. It identifies potential fire regions in the video frames and draws bounding rectangles around them. The script uses a simple color-based approach to detect the fire's red-orange color in the video frames.
+This Python script uses OpenCV to detect fire in a video. It identifies potential fire regions in the video frames and draws bounding rectangles around them. The script uses a simple colour-based approach to detect the fire's red-orange colour in the video frames.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,7 +15,7 @@ This Python script uses OpenCV to detect fire in a video. It identifies potentia
 
 ## Introduction
 
-Fire detection is crucial for early warning and effective firefighting. This Python script leverages the power of OpenCV, a popular computer vision library, to automatically detect fire in video footage. By analyzing color and shape characteristics, the script can identify regions in the video that exhibit red-orange hues and approximate the presence of fire.
+Fire detection is crucial for early warning and effective firefighting. This Python script leverages the power of OpenCV, a popular computer vision library, to automatically detect fire in video footage. By analyzing colour and shape characteristics, the script can identify regions in the video that exhibit red-orange hues and approximate the presence of fire.
 
 ## Instructions
 
@@ -27,7 +27,7 @@ pip install opencv-python
 
 2. **Download and Run**: Clone or download this repository to your local machine. Then, run the script "fire_detection.py".
 
-3. **Select Video**: When prompted, use the file dialog window to select a video file that you want to analyze for fire detection.
+3. **Select Video**: When prompted, use the file dialogue window to select a video file that you want to analyze for fire detection.
 
 4. **Fire Detection Process**: The script will process each frame of the video and identify potential fire regions based on color characteristics.
 
