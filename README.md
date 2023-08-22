@@ -37,7 +37,7 @@ pip install opencv-python
 ![Screenshot 2023-08-14 180917](https://github.com/yesiamrajeev/Fire-Detection/assets/125568812/fe556814-8a72-4a31-9146-41c396ad1925)
 ![Screenshot 2023-08-14 180851](https://github.com/yesiamrajeev/Fire-Detection/assets/125568812/fb0a18ab-c66f-4b58-b9d7-539c84b82225)
 
-## Code Explanation
+# Code Explanation
 
 The fire detection process involves the following steps:
 
