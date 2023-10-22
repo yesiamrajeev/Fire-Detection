@@ -2,6 +2,7 @@
 
 This Python script uses OpenCV to detect fire in a video. It identifies potential fire regions in the video frames and draws bounding rectangles around them. The script uses a simple colour-based approach to detect the fire's red-orange colour in the video frames.
 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Instructions](#instructions)
