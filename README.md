@@ -14,7 +14,7 @@ This Python script uses OpenCV to detect fire in a video. It identifies potentia
 - [Code Usage Example](#code-usage-example)
 - [License](#license)
 
-## Introduction
+## Introduction:
 
 Fire detection is crucial for early warning and effective firefighting. This Python script leverages the power of OpenCV, a popular computer vision library, to automatically detect fire in video footage. By analyzing colour and shape characteristics, the script can identify regions in the video that exhibit red-orange hues and approximate the presence of fire.
 
